@@ -44,7 +44,7 @@ namespace ESWA01CalculadoraDeMedias
         {
             float nota;
 
-            if (!Validador.ValidarNota(txt_NP1, out nota))
+            if (!ValidadorDeNotas.ValidarNota(txt_NP1, out nota))
                 return;
         }
 
@@ -52,7 +52,7 @@ namespace ESWA01CalculadoraDeMedias
         {
             float nota;
 
-            if (Validador.ValidarNota(txt_NP2, out nota))
+            if (ValidadorDeNotas.ValidarNota(txt_NP2, out nota))
                 return;
         }
 
@@ -60,7 +60,7 @@ namespace ESWA01CalculadoraDeMedias
         {
             float nota;
 
-            if (Validador.ValidarNota(txt_PIM, out nota))
+            if (ValidadorDeNotas.ValidarNota(txt_PIM, out nota))
                 return;
         }
 
@@ -75,13 +75,13 @@ namespace ESWA01CalculadoraDeMedias
             }
             float np1, np2, pim;
 
-            if (!Validador.ValidarNota(txt_NP1, out np1) || !Validador.ValidarNota(txt_NP2, out np2) || !Validador.ValidarNota(txt_PIM, out pim))
+            if (!ValidadorDeNotas.ValidarNota(txt_NP1, out np1) || !ValidadorDeNotas.ValidarNota(txt_NP2, out np2) || !ValidadorDeNotas.ValidarNota(txt_PIM, out pim))
             {
                 return;
             }
 
-            float media = Media.CalcularMediaSem(np1, np2, pim);
-            if (Media.AlunoAprovadoSem(media))
+            float media = CalcularMedia.CalcularMediaSem(np1, np2, pim);
+            if (CalcularMedia.AlunoAprovadoSem(media))
             {
                 status.Text = "Aprovado!!";
                 status.ForeColor = Color.Blue;
@@ -117,7 +117,7 @@ namespace ESWA01CalculadoraDeMedias
         {
             float nota;
 
-            if (Validador.ValidarNota(txt_Exam, out nota))
+            if (ValidadorDeNotas.ValidarNota(txt_Exam, out nota))
             {
                 return;
             }
@@ -127,6 +127,8 @@ namespace ESWA01CalculadoraDeMedias
         {
             txt_Exam.Clear();
         }
+
+        // calcula a média final
 
         private void btn_Calc_Final_Click_1(object sender, EventArgs e)
         {
@@ -141,13 +143,13 @@ namespace ESWA01CalculadoraDeMedias
 
             float exam;
 
-            if (!Validador.ValidarNota(txt_Exam, out exam))
+            if (!ValidadorDeNotas.ValidarNota(txt_Exam, out exam))
             {
                 return;
             }
 
-            float nota_final = Media.CalcularMediaFinal(media_Semestral, exam);
-            if (Media.AlunoAprovadoFinal(nota_final))
+            float nota_final = CalcularMedia.CalcularMediaFinal(media_Semestral, exam);
+            if (CalcularMedia.AlunoAprovadoFinal(nota_final))
             {
                 status.Text = "Aprovado!!";
                 status.ForeColor = Color.Blue;
@@ -162,8 +164,6 @@ namespace ESWA01CalculadoraDeMedias
 
 
         }
-
-        // calcula a média final
 
 
     }

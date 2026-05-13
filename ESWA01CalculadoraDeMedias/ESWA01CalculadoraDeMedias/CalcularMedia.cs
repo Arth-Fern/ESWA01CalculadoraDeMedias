@@ -2,7 +2,7 @@
 
 namespace ESWA01CalculadoraDeMedias
 {
-    public class Media
+    public class CalcularMedia
     {
         // Calcula média semestral
         public static float CalcularMediaSem(float np1, float np2, float pim)

@@ -2,7 +2,7 @@
 
 namespace ESWA01CalculadoraDeMedias
 {
-    public class Validador
+    public class ValidadorDeNotas
     {
         public static bool ValidarNota(TextBox txt, out float nota)
         {
