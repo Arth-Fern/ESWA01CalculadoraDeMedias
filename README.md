@@ -42,8 +42,8 @@ O aplicativo também gerencia o status do aluno (Aprovado, Em Exame, Reprovado) 
 
 ## Estrutura do Projeto
 
-- **`ESWAEECalculadoraDeMedias`** → Biblioteca de Classes (Camada de Negócio)
-- **`CalculadoraDeMediasEE`** → Aplicação Executável (Windows Forms)
+- **`ESWAEECalculadoraDeMedias`** -> Biblioteca de Classes (Camada de Negócio)
+- **`CalculadoraDeMediasEE`** -> Aplicação Executável (Windows Forms)
 
 ------------------
 
