@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ESWA01CalculadoraDeMedias
 {
-    internal class CalcularMedia
+    public class CalcularMedia
     {
         // Calcula média semestral
         public static float CalcularMediaSem(float np1, float np2, float pim)

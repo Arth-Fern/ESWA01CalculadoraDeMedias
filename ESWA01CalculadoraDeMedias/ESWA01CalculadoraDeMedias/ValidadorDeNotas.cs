@@ -7,7 +7,7 @@ using System.Windows.Forms;
 
 namespace ESWA01CalculadoraDeMedias
 {
-    internal class ValidadorDeNotas
+    public class ValidadorDeNotas
     {
         public static bool ValidarNota(TextBox txt, out float nota)
         {
