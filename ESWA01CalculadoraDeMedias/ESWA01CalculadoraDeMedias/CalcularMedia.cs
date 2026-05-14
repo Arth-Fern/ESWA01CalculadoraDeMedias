@@ -9,9 +9,19 @@ namespace ESWA01CalculadoraDeMedias
     public class CalcularMedia
     {
         // Calcula média semestral
-        public static float CalcularMediaSem(float np1, float np2, float pim)
+        public static float CalcularMediaSem(float np1, float np2, float pim, float? ac = null)
         {
             float media = (4 * np1 + 4 * np2 + 2 * pim) / 10;
+
+            if (ac.HasValue) // checkbox de atividade extra selecionada
+            {
+                media += ac.Value;
+            }
+
+            if (media > 10.0f)
+            {
+                media = 10.0f;
+            }
 
             return (float)Math.Round(media, 1, MidpointRounding.AwayFromZero);
         }

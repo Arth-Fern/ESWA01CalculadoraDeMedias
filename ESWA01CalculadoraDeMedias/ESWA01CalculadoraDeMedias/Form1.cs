@@ -8,6 +8,8 @@ using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement.Button;
 
 namespace ESWA01CalculadoraDeMedias
 {
@@ -19,6 +21,8 @@ namespace ESWA01CalculadoraDeMedias
             InitializeComponent();
             // Deixa o grupo de exibição do exame invísivel ao inicializar o programa
             grpExam.Visible = false;
+            labelAC.Visible = false;
+            textBoxAC.Visible = false;
 
         }
 
@@ -57,14 +61,31 @@ namespace ESWA01CalculadoraDeMedias
                 MessageBox.Show("Uma das caixas não está preenchida", "Empty TextBox", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 return;
             }
-            float np1, np2, pim;
+            float np1, np2, pim, ac = 0;
 
             if (!ValidadorDeNotas.ValidarNota(txt_NP1, out np1) || !ValidadorDeNotas.ValidarNota(txt_NP2, out np2) || !ValidadorDeNotas.ValidarNota(txt_PIM, out pim))
             {
                 return;
             }
 
-            float media = CalcularMedia.CalcularMediaSem(np1, np2, pim);
+            //Valida AC apenas se o checkbox for selecionado
+            if (checkBoxAC.Checked)
+            {
+                if (string.IsNullOrWhiteSpace(textBoxAC.Text))
+                {
+                    MessageBox.Show("Preencha a nota da Atividade Complementar",
+                                   "Empty TextBox", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    textBoxAC.Focus();
+                    return;
+                }
+
+                if (!ValidadorDeNotas.ValidarNota(textBoxAC, out ac))
+                {
+                    return;
+                }
+            }
+
+            float media = CalcularMedia.CalcularMediaSem(np1, np2, pim, ac);
             if (CalcularMedia.AlunoAprovadoSem(media))
             {
                 status.Text = "Aprovado!!";
@@ -190,6 +211,28 @@ namespace ESWA01CalculadoraDeMedias
 
         }
 
+        private void checkBoxAC_CheckedChanged(object sender, EventArgs e)
+        {
+            if (checkBoxAC.Checked)
+            {
+                labelAC.Visible = true;
+                textBoxAC.Visible = true;
+            }
+            else
+            {
+                labelAC.Visible = false;
+                textBoxAC.Visible = false;
+            }
+        }
 
+        private void textBoxAC_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void labelAC_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

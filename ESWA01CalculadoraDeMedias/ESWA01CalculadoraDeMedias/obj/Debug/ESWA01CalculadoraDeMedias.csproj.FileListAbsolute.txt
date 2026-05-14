@@ -18,3 +18,13 @@ C:\Users\artur\OneDrive\Área de Trabalho\C SHARP\CalculadoraCSharp\Nova pasta\E
 C:\Users\artur\OneDrive\Área de Trabalho\C SHARP\CalculadoraCSharp\Nova pasta\ESWA01CalculadoraDeMedias\ESWA01CalculadoraDeMedias\ESWA01CalculadoraDeMedias\obj\Debug\ESWA01CalculadoraDeMedias.csproj.CoreCompileInputs.cache
 C:\Users\artur\OneDrive\Área de Trabalho\C SHARP\CalculadoraCSharp\Nova pasta\ESWA01CalculadoraDeMedias\ESWA01CalculadoraDeMedias\ESWA01CalculadoraDeMedias\obj\Debug\ESWA01CalculadoraDeMedias.exe
 C:\Users\artur\OneDrive\Área de Trabalho\C SHARP\CalculadoraCSharp\Nova pasta\ESWA01CalculadoraDeMedias\ESWA01CalculadoraDeMedias\ESWA01CalculadoraDeMedias\obj\Debug\ESWA01CalculadoraDeMedias.pdb
+D:\Programação\Faculdade\Programação em C#\Atividade II\ESWA01CalculadoraDeMedias\ESWA01CalculadoraDeMedias\ESWA01CalculadoraDeMedias\bin\Debug\ESWA01CalculadoraDeMedias.exe.config
+D:\Programação\Faculdade\Programação em C#\Atividade II\ESWA01CalculadoraDeMedias\ESWA01CalculadoraDeMedias\ESWA01CalculadoraDeMedias\bin\Debug\ESWA01CalculadoraDeMedias.exe
+D:\Programação\Faculdade\Programação em C#\Atividade II\ESWA01CalculadoraDeMedias\ESWA01CalculadoraDeMedias\ESWA01CalculadoraDeMedias\bin\Debug\ESWA01CalculadoraDeMedias.pdb
+D:\Programação\Faculdade\Programação em C#\Atividade II\ESWA01CalculadoraDeMedias\ESWA01CalculadoraDeMedias\ESWA01CalculadoraDeMedias\obj\Debug\ESWA01CalculadoraDeMedias.csproj.AssemblyReference.cache
+D:\Programação\Faculdade\Programação em C#\Atividade II\ESWA01CalculadoraDeMedias\ESWA01CalculadoraDeMedias\ESWA01CalculadoraDeMedias\obj\Debug\ESWA01CalculadoraDeMedias.Form1.resources
+D:\Programação\Faculdade\Programação em C#\Atividade II\ESWA01CalculadoraDeMedias\ESWA01CalculadoraDeMedias\ESWA01CalculadoraDeMedias\obj\Debug\ESWA01CalculadoraDeMedias.Properties.Resources.resources
+D:\Programação\Faculdade\Programação em C#\Atividade II\ESWA01CalculadoraDeMedias\ESWA01CalculadoraDeMedias\ESWA01CalculadoraDeMedias\obj\Debug\ESWA01CalculadoraDeMedias.csproj.GenerateResource.cache
+D:\Programação\Faculdade\Programação em C#\Atividade II\ESWA01CalculadoraDeMedias\ESWA01CalculadoraDeMedias\ESWA01CalculadoraDeMedias\obj\Debug\ESWA01CalculadoraDeMedias.csproj.CoreCompileInputs.cache
+D:\Programação\Faculdade\Programação em C#\Atividade II\ESWA01CalculadoraDeMedias\ESWA01CalculadoraDeMedias\ESWA01CalculadoraDeMedias\obj\Debug\ESWA01CalculadoraDeMedias.exe
+D:\Programação\Faculdade\Programação em C#\Atividade II\ESWA01CalculadoraDeMedias\ESWA01CalculadoraDeMedias\ESWA01CalculadoraDeMedias\obj\Debug\ESWA01CalculadoraDeMedias.pdb

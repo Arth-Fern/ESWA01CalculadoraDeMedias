@@ -49,6 +49,10 @@
             this.label_Exame = new System.Windows.Forms.Label();
             this.timer_waiting = new System.Windows.Forms.Timer(this.components);
             this.btn_Reset = new System.Windows.Forms.Button();
+            this.label1 = new System.Windows.Forms.Label();
+            this.textBoxAC = new System.Windows.Forms.TextBox();
+            this.checkBoxAC = new System.Windows.Forms.CheckBox();
+            this.labelAC = new System.Windows.Forms.Label();
             this.grpExam.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -66,7 +70,7 @@
             // 
             this.label_NP1.AutoSize = true;
             this.label_NP1.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label_NP1.Location = new System.Drawing.Point(97, 98);
+            this.label_NP1.Location = new System.Drawing.Point(97, 71);
             this.label_NP1.Name = "label_NP1";
             this.label_NP1.Size = new System.Drawing.Size(65, 25);
             this.label_NP1.TabIndex = 1;
@@ -75,7 +79,7 @@
             // txt_NP1
             // 
             this.txt_NP1.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txt_NP1.Location = new System.Drawing.Point(168, 95);
+            this.txt_NP1.Location = new System.Drawing.Point(168, 68);
             this.txt_NP1.Name = "txt_NP1";
             this.txt_NP1.Size = new System.Drawing.Size(404, 31);
             this.txt_NP1.TabIndex = 2;
@@ -87,7 +91,7 @@
             // 
             this.label_NP2.AutoSize = true;
             this.label_NP2.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label_NP2.Location = new System.Drawing.Point(97, 148);
+            this.label_NP2.Location = new System.Drawing.Point(97, 117);
             this.label_NP2.Name = "label_NP2";
             this.label_NP2.Size = new System.Drawing.Size(65, 25);
             this.label_NP2.TabIndex = 3;
@@ -96,7 +100,7 @@
             // txt_NP2
             // 
             this.txt_NP2.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txt_NP2.Location = new System.Drawing.Point(168, 145);
+            this.txt_NP2.Location = new System.Drawing.Point(168, 114);
             this.txt_NP2.Name = "txt_NP2";
             this.txt_NP2.Size = new System.Drawing.Size(404, 31);
             this.txt_NP2.TabIndex = 4;
@@ -108,7 +112,7 @@
             // 
             this.label_PIM.AutoSize = true;
             this.label_PIM.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label_PIM.Location = new System.Drawing.Point(97, 204);
+            this.label_PIM.Location = new System.Drawing.Point(97, 163);
             this.label_PIM.Name = "label_PIM";
             this.label_PIM.Size = new System.Drawing.Size(61, 25);
             this.label_PIM.TabIndex = 5;
@@ -117,7 +121,7 @@
             // txt_PIM
             // 
             this.txt_PIM.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txt_PIM.Location = new System.Drawing.Point(168, 201);
+            this.txt_PIM.Location = new System.Drawing.Point(168, 160);
             this.txt_PIM.Name = "txt_PIM";
             this.txt_PIM.Size = new System.Drawing.Size(404, 31);
             this.txt_PIM.TabIndex = 6;
@@ -261,11 +265,58 @@
             this.btn_Reset.UseVisualStyleBackColor = true;
             this.btn_Reset.Click += new System.EventHandler(this.btn_Reset_Click);
             // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(0, 0);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(35, 13);
+            this.label1.TabIndex = 13;
+            this.label1.Text = "label1";
+            // 
+            // textBoxAC
+            // 
+            this.textBoxAC.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBoxAC.Location = new System.Drawing.Point(168, 207);
+            this.textBoxAC.Name = "textBoxAC";
+            this.textBoxAC.Size = new System.Drawing.Size(404, 31);
+            this.textBoxAC.TabIndex = 15;
+            this.textBoxAC.Text = "0,0";
+            this.textBoxAC.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
+            this.textBoxAC.TextChanged += new System.EventHandler(this.textBoxAC_TextChanged);
+            // 
+            // checkBoxAC
+            // 
+            this.checkBoxAC.AutoSize = true;
+            this.checkBoxAC.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.checkBoxAC.Location = new System.Drawing.Point(590, 213);
+            this.checkBoxAC.Name = "checkBoxAC";
+            this.checkBoxAC.Size = new System.Drawing.Size(201, 24);
+            this.checkBoxAC.TabIndex = 16;
+            this.checkBoxAC.Text = "Atividade Complementar";
+            this.checkBoxAC.UseVisualStyleBackColor = true;
+            this.checkBoxAC.CheckedChanged += new System.EventHandler(this.checkBoxAC_CheckedChanged);
+            // 
+            // labelAC
+            // 
+            this.labelAC.AutoSize = true;
+            this.labelAC.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.labelAC.Location = new System.Drawing.Point(97, 210);
+            this.labelAC.Name = "labelAC";
+            this.labelAC.Size = new System.Drawing.Size(47, 25);
+            this.labelAC.TabIndex = 17;
+            this.labelAC.Text = "AC:";
+            this.labelAC.Click += new System.EventHandler(this.labelAC_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(814, 550);
+            this.Controls.Add(this.labelAC);
+            this.Controls.Add(this.checkBoxAC);
+            this.Controls.Add(this.textBoxAC);
+            this.Controls.Add(this.label1);
             this.Controls.Add(this.btn_Reset);
             this.Controls.Add(this.grpExam);
             this.Controls.Add(this.btn_Calc_Sem);
@@ -310,6 +361,10 @@
         private System.Windows.Forms.Label label_Nota_Exam;
         private System.Windows.Forms.Timer timer_waiting;
         private System.Windows.Forms.Button btn_Reset;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.TextBox textBoxAC;
+        private System.Windows.Forms.CheckBox checkBoxAC;
+        private System.Windows.Forms.Label labelAC;
     }
 }
 
