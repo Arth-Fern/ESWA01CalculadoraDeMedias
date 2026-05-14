@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ValidacaoNotasEPesosTests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b8a29c1aa620b3d5a414a4ade23c0aaeaad2a596")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+45133cdfc93b652b2cfc747addf78d4ffde25ea5")]
 [assembly: System.Reflection.AssemblyProductAttribute("ValidacaoNotasEPesosTests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ValidacaoNotasEPesosTests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

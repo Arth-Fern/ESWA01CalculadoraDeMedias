@@ -95,3 +95,5 @@ C:\Users\Lucas\Desktop\Projeto Marcos\ESWA01CalculadoraDeMedias\ESWA01Calculador
 C:\Users\Lucas\Desktop\Projeto Marcos\ESWA01CalculadoraDeMedias\ESWA01CalculadoraDeMedias\ValidacaoNotasEPesos\ValidacaoNotasEPesosTests\obj\Debug\net10.0\ValidacaoNotasEPesosTests.pdb
 C:\Users\Lucas\Desktop\Projeto Marcos\ESWA01CalculadoraDeMedias\ESWA01CalculadoraDeMedias\ValidacaoNotasEPesos\ValidacaoNotasEPesosTests\obj\Debug\net10.0\ValidacaoNotasEPesosTests.genruntimeconfig.cache
 C:\Users\Lucas\Desktop\Projeto Marcos\ESWA01CalculadoraDeMedias\ESWA01CalculadoraDeMedias\ValidacaoNotasEPesos\ValidacaoNotasEPesosTests\obj\Debug\net10.0\ref\ValidacaoNotasEPesosTests.dll
+C:\Users\Lucas\Desktop\Projeto Marcos\ESWA01CalculadoraDeMedias\ESWA01CalculadoraDeMedias\ValidacaoNotasEPesos\ValidacaoNotasEPesosTests\bin\Debug\net10.0\ESWA01CalculadoraDeMedias.exe
+C:\Users\Lucas\Desktop\Projeto Marcos\ESWA01CalculadoraDeMedias\ESWA01CalculadoraDeMedias\ValidacaoNotasEPesos\ValidacaoNotasEPesosTests\bin\Debug\net10.0\ESWA01CalculadoraDeMedias.pdb

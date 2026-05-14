@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Programa\u00E7\u00E3o\\Faculdade\\Programa\u00E7\u00E3o em C#\\Atividade II\\ESWA01CalculadoraDeMedias\\ESWA01CalculadoraDeMedias\\",
+  "WorkspaceRootPath": "C:\\Users\\Lucas\\Desktop\\Projeto Marcos\\ESWA01CalculadoraDeMedias\\ESWA01CalculadoraDeMedias\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{57204DBC-3B91-4383-9440-AFB476E85D6A}|ESWA01CalculadoraDeMedias\\ESWA01CalculadoraDeMedias.csproj|D:\\Programa\u00E7\u00E3o\\Faculdade\\Programa\u00E7\u00E3o em C#\\Atividade II\\ESWA01CalculadoraDeMedias\\ESWA01CalculadoraDeMedias\\eswa01calculadorademedias\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{57204DBC-3B91-4383-9440-AFB476E85D6A}|ESWA01CalculadoraDeMedias\\ESWA01CalculadoraDeMedias.csproj|solutionrelative:eswa01calculadorademedias\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{57204DBC-3B91-4383-9440-AFB476E85D6A}|ESWA01CalculadoraDeMedias\\ESWA01CalculadoraDeMedias.csproj|d:\\programa\u00E7\u00E3o\\faculdade\\programa\u00E7\u00E3o em c#\\atividade ii\\eswa01calculadorademedias\\eswa01calculadorademedias\\eswa01calculadorademedias\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{57204DBC-3B91-4383-9440-AFB476E85D6A}|ESWA01CalculadoraDeMedias\\ESWA01CalculadoraDeMedias.csproj|solutionrelative:eswa01calculadorademedias\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{57204DBC-3B91-4383-9440-AFB476E85D6A}|ESWA01CalculadoraDeMedias\\ESWA01CalculadoraDeMedias.csproj|D:\\Programa\u00E7\u00E3o\\Faculdade\\Programa\u00E7\u00E3o em C#\\Atividade II\\ESWA01CalculadoraDeMedias\\ESWA01CalculadoraDeMedias\\eswa01calculadorademedias\\calcularmedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{57204DBC-3B91-4383-9440-AFB476E85D6A}|ESWA01CalculadoraDeMedias\\ESWA01CalculadoraDeMedias.csproj|C:\\Users\\Lucas\\Desktop\\Projeto Marcos\\ESWA01CalculadoraDeMedias\\ESWA01CalculadoraDeMedias\\eswa01calculadorademedias\\calcularmedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{57204DBC-3B91-4383-9440-AFB476E85D6A}|ESWA01CalculadoraDeMedias\\ESWA01CalculadoraDeMedias.csproj|solutionrelative:eswa01calculadorademedias\\calcularmedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57204DBC-3B91-4383-9440-AFB476E85D6A}|ESWA01CalculadoraDeMedias\\ESWA01CalculadoraDeMedias.csproj|D:\\Programa\u00E7\u00E3o\\Faculdade\\Programa\u00E7\u00E3o em C#\\Atividade II\\ESWA01CalculadoraDeMedias\\ESWA01CalculadoraDeMedias\\eswa01calculadorademedias\\validadordenotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{57204DBC-3B91-4383-9440-AFB476E85D6A}|ESWA01CalculadoraDeMedias\\ESWA01CalculadoraDeMedias.csproj|c:\\users\\lucas\\desktop\\projeto marcos\\eswa01calculadorademedias\\eswa01calculadorademedias\\eswa01calculadorademedias\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57204DBC-3B91-4383-9440-AFB476E85D6A}|ESWA01CalculadoraDeMedias\\ESWA01CalculadoraDeMedias.csproj|solutionrelative:eswa01calculadorademedias\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57204DBC-3B91-4383-9440-AFB476E85D6A}|ESWA01CalculadoraDeMedias\\ESWA01CalculadoraDeMedias.csproj|C:\\Users\\Lucas\\Desktop\\Projeto Marcos\\ESWA01CalculadoraDeMedias\\ESWA01CalculadoraDeMedias\\eswa01calculadorademedias\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57204DBC-3B91-4383-9440-AFB476E85D6A}|ESWA01CalculadoraDeMedias\\ESWA01CalculadoraDeMedias.csproj|solutionrelative:eswa01calculadorademedias\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57204DBC-3B91-4383-9440-AFB476E85D6A}|ESWA01CalculadoraDeMedias\\ESWA01CalculadoraDeMedias.csproj|C:\\Users\\Lucas\\Desktop\\Projeto Marcos\\ESWA01CalculadoraDeMedias\\ESWA01CalculadoraDeMedias\\eswa01calculadorademedias\\validadordenotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{57204DBC-3B91-4383-9440-AFB476E85D6A}|ESWA01CalculadoraDeMedias\\ESWA01CalculadoraDeMedias.csproj|solutionrelative:eswa01calculadorademedias\\validadordenotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -29,12 +29,16 @@
           "SelectedChildIndex": 3,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\Programa\u00E7\u00E3o\\Faculdade\\Programa\u00E7\u00E3o em C#\\Atividade II\\ESWA01CalculadoraDeMedias\\ESWA01CalculadoraDeMedias\\ESWA01CalculadoraDeMedias\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Projeto Marcos\\ESWA01CalculadoraDeMedias\\ESWA01CalculadoraDeMedias\\ESWA01CalculadoraDeMedias\\Form1.cs",
               "RelativeDocumentMoniker": "ESWA01CalculadoraDeMedias\\Form1.cs",
-              "ToolTip": "D:\\Programa\u00E7\u00E3o\\Faculdade\\Programa\u00E7\u00E3o em C#\\Atividade II\\ESWA01CalculadoraDeMedias\\ESWA01CalculadoraDeMedias\\ESWA01CalculadoraDeMedias\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Projeto Marcos\\ESWA01CalculadoraDeMedias\\ESWA01CalculadoraDeMedias\\ESWA01CalculadoraDeMedias\\Form1.cs [Design]",
               "RelativeToolTip": "ESWA01CalculadoraDeMedias\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-14T01:08:06.734Z",
@@ -44,35 +48,34 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "ValidadorDeNotas.cs",
-              "DocumentMoniker": "D:\\Programa\u00E7\u00E3o\\Faculdade\\Programa\u00E7\u00E3o em C#\\Atividade II\\ESWA01CalculadoraDeMedias\\ESWA01CalculadoraDeMedias\\ESWA01CalculadoraDeMedias\\ValidadorDeNotas.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Projeto Marcos\\ESWA01CalculadoraDeMedias\\ESWA01CalculadoraDeMedias\\ESWA01CalculadoraDeMedias\\ValidadorDeNotas.cs",
               "RelativeDocumentMoniker": "ESWA01CalculadoraDeMedias\\ValidadorDeNotas.cs",
-              "ToolTip": "D:\\Programa\u00E7\u00E3o\\Faculdade\\Programa\u00E7\u00E3o em C#\\Atividade II\\ESWA01CalculadoraDeMedias\\ESWA01CalculadoraDeMedias\\ESWA01CalculadoraDeMedias\\ValidadorDeNotas.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Projeto Marcos\\ESWA01CalculadoraDeMedias\\ESWA01CalculadoraDeMedias\\ESWA01CalculadoraDeMedias\\ValidadorDeNotas.cs",
               "RelativeToolTip": "ESWA01CalculadoraDeMedias\\ValidadorDeNotas.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-14T00:14:06.894Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-14T00:14:06.894Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "CalcularMedia.cs",
-              "DocumentMoniker": "D:\\Programa\u00E7\u00E3o\\Faculdade\\Programa\u00E7\u00E3o em C#\\Atividade II\\ESWA01CalculadoraDeMedias\\ESWA01CalculadoraDeMedias\\ESWA01CalculadoraDeMedias\\CalcularMedia.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Projeto Marcos\\ESWA01CalculadoraDeMedias\\ESWA01CalculadoraDeMedias\\ESWA01CalculadoraDeMedias\\CalcularMedia.cs",
               "RelativeDocumentMoniker": "ESWA01CalculadoraDeMedias\\CalcularMedia.cs",
-              "ToolTip": "D:\\Programa\u00E7\u00E3o\\Faculdade\\Programa\u00E7\u00E3o em C#\\Atividade II\\ESWA01CalculadoraDeMedias\\ESWA01CalculadoraDeMedias\\ESWA01CalculadoraDeMedias\\CalcularMedia.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Projeto Marcos\\ESWA01CalculadoraDeMedias\\ESWA01CalculadoraDeMedias\\ESWA01CalculadoraDeMedias\\CalcularMedia.cs",
               "RelativeToolTip": "ESWA01CalculadoraDeMedias\\CalcularMedia.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAUwBoAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-14T00:13:21.583Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\Programa\u00E7\u00E3o\\Faculdade\\Programa\u00E7\u00E3o em C#\\Atividade II\\ESWA01CalculadoraDeMedias\\ESWA01CalculadoraDeMedias\\ESWA01CalculadoraDeMedias\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Projeto Marcos\\ESWA01CalculadoraDeMedias\\ESWA01CalculadoraDeMedias\\ESWA01CalculadoraDeMedias\\Form1.cs",
               "RelativeDocumentMoniker": "ESWA01CalculadoraDeMedias\\Form1.cs",
-              "ToolTip": "D:\\Programa\u00E7\u00E3o\\Faculdade\\Programa\u00E7\u00E3o em C#\\Atividade II\\ESWA01CalculadoraDeMedias\\ESWA01CalculadoraDeMedias\\ESWA01CalculadoraDeMedias\\Form1.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Projeto Marcos\\ESWA01CalculadoraDeMedias\\ESWA01CalculadoraDeMedias\\ESWA01CalculadoraDeMedias\\Form1.cs",
               "RelativeToolTip": "ESWA01CalculadoraDeMedias\\Form1.cs",
               "ViewState": "AgIAADoAAAAAAAAAAAAqwEwAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
