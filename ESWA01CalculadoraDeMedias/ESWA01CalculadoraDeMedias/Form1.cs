@@ -22,22 +22,6 @@ namespace ESWA01CalculadoraDeMedias
 
         }
 
-        // configura o timer para os pontos no "Aguardando nota do Exame..."
-        private void timer1_Tick(object sender, EventArgs e)
-        {
-            pontosCarregamento++;
-
-            if (pontosCarregamento > 3)
-            {
-                pontosCarregamento = 0;
-            }
-
-            status.Text = "Aguardando nota do exame" + new string('.', pontosCarregamento);
-
-        }
-
-
-
 
 
         private void txt_NP1_TextChanged_1(object sender, EventArgs e)
@@ -162,6 +146,47 @@ namespace ESWA01CalculadoraDeMedias
                 label_Calc_Final.Text = nota_final.ToString();
             }
 
+
+        }
+
+        private void grpExam_Enter(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btn_Reset_Click(object sender, EventArgs e)
+        {
+            //Reseta o programa para o estado inicial
+
+            txt_NP1.Clear();
+            txt_NP2.Clear();
+            txt_PIM.Clear();
+            txt_Exam.Clear();
+            label_Calc_Sem.Text = "0,0";
+            label_Calc_Final.Text = "0,0";
+            status.Text = "STATUS";
+            status.ForeColor = Color.Black;
+            grpExam.Visible = false;
+            txt_NP1.ReadOnly = false;
+            txt_NP2.ReadOnly = false;
+            txt_PIM.ReadOnly = false;
+            btn_Erase_Sem.Enabled = true;
+            btn_Calc_Sem.Enabled = true;
+            timer_waiting.Stop();
+
+        }
+
+        // configura o timer para os pontos no "Aguardando nota do Exame..."
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+            pontosCarregamento++;
+
+            if (pontosCarregamento > 3)
+            {
+                pontosCarregamento = 0;
+            }
+
+            status.Text = "Aguardando nota do exame" + new string('.', pontosCarregamento);
 
         }
 

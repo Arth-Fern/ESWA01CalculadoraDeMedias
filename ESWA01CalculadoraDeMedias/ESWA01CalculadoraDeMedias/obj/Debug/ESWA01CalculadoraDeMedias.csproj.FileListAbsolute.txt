@@ -8,3 +8,13 @@ C:\Users\Usuário\source\repos\ESWA01CalculadoraDeMedias\ESWA01CalculadoraDeMedi
 C:\Users\Usuário\source\repos\ESWA01CalculadoraDeMedias\ESWA01CalculadoraDeMedias\ESWA01CalculadoraDeMedias\obj\Debug\ESWA01CalculadoraDeMedias.csproj.CoreCompileInputs.cache
 C:\Users\Usuário\source\repos\ESWA01CalculadoraDeMedias\ESWA01CalculadoraDeMedias\ESWA01CalculadoraDeMedias\obj\Debug\ESWA01CalculadoraDeMedias.exe
 C:\Users\Usuário\source\repos\ESWA01CalculadoraDeMedias\ESWA01CalculadoraDeMedias\ESWA01CalculadoraDeMedias\obj\Debug\ESWA01CalculadoraDeMedias.pdb
+C:\Users\artur\OneDrive\Área de Trabalho\C SHARP\CalculadoraCSharp\Nova pasta\ESWA01CalculadoraDeMedias\ESWA01CalculadoraDeMedias\ESWA01CalculadoraDeMedias\bin\Debug\ESWA01CalculadoraDeMedias.exe.config
+C:\Users\artur\OneDrive\Área de Trabalho\C SHARP\CalculadoraCSharp\Nova pasta\ESWA01CalculadoraDeMedias\ESWA01CalculadoraDeMedias\ESWA01CalculadoraDeMedias\bin\Debug\ESWA01CalculadoraDeMedias.exe
+C:\Users\artur\OneDrive\Área de Trabalho\C SHARP\CalculadoraCSharp\Nova pasta\ESWA01CalculadoraDeMedias\ESWA01CalculadoraDeMedias\ESWA01CalculadoraDeMedias\bin\Debug\ESWA01CalculadoraDeMedias.pdb
+C:\Users\artur\OneDrive\Área de Trabalho\C SHARP\CalculadoraCSharp\Nova pasta\ESWA01CalculadoraDeMedias\ESWA01CalculadoraDeMedias\ESWA01CalculadoraDeMedias\obj\Debug\ESWA01CalculadoraDeMedias.csproj.AssemblyReference.cache
+C:\Users\artur\OneDrive\Área de Trabalho\C SHARP\CalculadoraCSharp\Nova pasta\ESWA01CalculadoraDeMedias\ESWA01CalculadoraDeMedias\ESWA01CalculadoraDeMedias\obj\Debug\ESWA01CalculadoraDeMedias.Form1.resources
+C:\Users\artur\OneDrive\Área de Trabalho\C SHARP\CalculadoraCSharp\Nova pasta\ESWA01CalculadoraDeMedias\ESWA01CalculadoraDeMedias\ESWA01CalculadoraDeMedias\obj\Debug\ESWA01CalculadoraDeMedias.Properties.Resources.resources
+C:\Users\artur\OneDrive\Área de Trabalho\C SHARP\CalculadoraCSharp\Nova pasta\ESWA01CalculadoraDeMedias\ESWA01CalculadoraDeMedias\ESWA01CalculadoraDeMedias\obj\Debug\ESWA01CalculadoraDeMedias.csproj.GenerateResource.cache
+C:\Users\artur\OneDrive\Área de Trabalho\C SHARP\CalculadoraCSharp\Nova pasta\ESWA01CalculadoraDeMedias\ESWA01CalculadoraDeMedias\ESWA01CalculadoraDeMedias\obj\Debug\ESWA01CalculadoraDeMedias.csproj.CoreCompileInputs.cache
+C:\Users\artur\OneDrive\Área de Trabalho\C SHARP\CalculadoraCSharp\Nova pasta\ESWA01CalculadoraDeMedias\ESWA01CalculadoraDeMedias\ESWA01CalculadoraDeMedias\obj\Debug\ESWA01CalculadoraDeMedias.exe
+C:\Users\artur\OneDrive\Área de Trabalho\C SHARP\CalculadoraCSharp\Nova pasta\ESWA01CalculadoraDeMedias\ESWA01CalculadoraDeMedias\ESWA01CalculadoraDeMedias\obj\Debug\ESWA01CalculadoraDeMedias.pdb

@@ -48,6 +48,7 @@
             this.txt_Exam = new System.Windows.Forms.TextBox();
             this.label_Exame = new System.Windows.Forms.Label();
             this.timer_waiting = new System.Windows.Forms.Timer(this.components);
+            this.btn_Reset = new System.Windows.Forms.Button();
             this.grpExam.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -174,11 +175,12 @@
             this.grpExam.Controls.Add(this.label_Nota_Exam);
             this.grpExam.Controls.Add(this.txt_Exam);
             this.grpExam.Controls.Add(this.label_Exame);
-            this.grpExam.Location = new System.Drawing.Point(60, 386);
+            this.grpExam.Location = new System.Drawing.Point(60, 358);
             this.grpExam.Name = "grpExam";
             this.grpExam.Size = new System.Drawing.Size(523, 136);
             this.grpExam.TabIndex = 11;
             this.grpExam.TabStop = false;
+            this.grpExam.Enter += new System.EventHandler(this.grpExam_Enter);
             // 
             // btn_Calc_Final
             // 
@@ -248,11 +250,23 @@
             this.timer_waiting.Interval = 500;
             this.timer_waiting.Tick += new System.EventHandler(this.timer1_Tick);
             // 
+            // btn_Reset
+            // 
+            this.btn_Reset.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn_Reset.Location = new System.Drawing.Point(102, 506);
+            this.btn_Reset.Name = "btn_Reset";
+            this.btn_Reset.Size = new System.Drawing.Size(481, 32);
+            this.btn_Reset.TabIndex = 12;
+            this.btn_Reset.Text = "RESETAR";
+            this.btn_Reset.UseVisualStyleBackColor = true;
+            this.btn_Reset.Click += new System.EventHandler(this.btn_Reset_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(814, 550);
+            this.Controls.Add(this.btn_Reset);
             this.Controls.Add(this.grpExam);
             this.Controls.Add(this.btn_Calc_Sem);
             this.Controls.Add(this.btn_Erase_Sem);
@@ -295,6 +309,7 @@
         private System.Windows.Forms.Label label_Calc_Final;
         private System.Windows.Forms.Label label_Nota_Exam;
         private System.Windows.Forms.Timer timer_waiting;
+        private System.Windows.Forms.Button btn_Reset;
     }
 }
 
