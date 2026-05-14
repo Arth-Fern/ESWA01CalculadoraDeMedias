@@ -51,4 +51,4 @@ O aplicativo também gerencia o status do aluno (Aprovado, Em Exame, Reprovado) 
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
+   git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git](https://github.com/Arth-Fern/ESWA01CalculadoraDeMedias.git
