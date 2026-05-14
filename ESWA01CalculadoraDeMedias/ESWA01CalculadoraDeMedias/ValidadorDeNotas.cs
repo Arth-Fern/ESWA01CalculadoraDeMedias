@@ -1,8 +1,13 @@
-﻿using System.Windows.Forms;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
 
 namespace ESWA01CalculadoraDeMedias
 {
-    public class ValidadorDeNotas
+    internal class ValidadorDeNotas
     {
         public static bool ValidarNota(TextBox txt, out float nota)
         {

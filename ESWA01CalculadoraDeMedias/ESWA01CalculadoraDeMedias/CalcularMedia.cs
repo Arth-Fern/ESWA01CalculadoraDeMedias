@@ -1,8 +1,12 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace ESWA01CalculadoraDeMedias
 {
-    public class CalcularMedia
+    internal class CalcularMedia
     {
         // Calcula média semestral
         public static float CalcularMediaSem(float np1, float np2, float pim)
