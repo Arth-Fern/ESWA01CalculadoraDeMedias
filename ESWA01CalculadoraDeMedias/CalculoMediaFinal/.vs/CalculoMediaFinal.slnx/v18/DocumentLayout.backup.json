@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Lucas\\Desktop\\Projeto Marcos\\ESWA01CalculadoraDeMedias\\ESWA01CalculadoraDeMedias\\CalculoMediaFinal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9D46138A-4A7A-46E1-83D4-97DBEE96FCCE}|CalculoMediaFinalTests\\CalculoMediaFinalTests.csproj|c:\\users\\lucas\\desktop\\projeto marcos\\eswa01calculadorademedias\\eswa01calculadorademedias\\calculomediafinal\\calculomediafinaltests\\calculomediafinaltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D46138A-4A7A-46E1-83D4-97DBEE96FCCE}|CalculoMediaFinalTests\\CalculoMediaFinalTests.csproj|solutionrelative:calculomediafinaltests\\calculomediafinaltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{84D1B499-42A5-54EC-EDBC-91286FCB0B52}|CalculoMediaFinalTests\\CalculoMediaFinalTests.csproj|c:\\users\\lucas\\desktop\\projeto marcos\\eswa01calculadorademedias\\eswa01calculadorademedias\\calculomediafinal\\calculomediafinaltests\\calculomediafinaltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84D1B499-42A5-54EC-EDBC-91286FCB0B52}|CalculoMediaFinalTests\\CalculoMediaFinalTests.csproj|solutionrelative:calculomediafinaltests\\calculomediafinaltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D46138A-4A7A-46E1-83D4-97DBEE96FCCE}|CalculoMediaFinalTests\\CalculoMediaFinalTests.csproj|c:\\users\\lucas\\desktop\\projeto marcos\\eswa01calculadorademedias\\eswa01calculadorademedias\\calculomediafinal\\calculomediafinaltests\\calcularmediafinal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D46138A-4A7A-46E1-83D4-97DBEE96FCCE}|CalculoMediaFinalTests\\CalculoMediaFinalTests.csproj|solutionrelative:calculomediafinaltests\\calcularmediafinal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{84D1B499-42A5-54EC-EDBC-91286FCB0B52}|CalculoMediaFinalTests\\CalculoMediaFinalTests.csproj|c:\\users\\lucas\\desktop\\projeto marcos\\eswa01calculadorademedias\\eswa01calculadorademedias\\calculomediafinal\\calculomediafinaltests\\calcularmediafinaltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84D1B499-42A5-54EC-EDBC-91286FCB0B52}|CalculoMediaFinalTests\\CalculoMediaFinalTests.csproj|solutionrelative:calculomediafinaltests\\calcularmediafinaltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,12 +27,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CalcularMediaFinal.cs",
-              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Projeto Marcos\\ESWA01CalculadoraDeMedias\\ESWA01CalculadoraDeMedias\\CalculoMediaFinal\\CalculoMediaFinalTests\\CalcularMediaFinal.cs",
-              "RelativeDocumentMoniker": "CalculoMediaFinalTests\\CalcularMediaFinal.cs",
-              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Projeto Marcos\\ESWA01CalculadoraDeMedias\\ESWA01CalculadoraDeMedias\\CalculoMediaFinal\\CalculoMediaFinalTests\\CalcularMediaFinal.cs",
-              "RelativeToolTip": "CalculoMediaFinalTests\\CalcularMediaFinal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Title": "CalcularMediaFinalTests.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Projeto Marcos\\ESWA01CalculadoraDeMedias\\ESWA01CalculadoraDeMedias\\CalculoMediaFinal\\CalculoMediaFinalTests\\CalcularMediaFinalTests.cs",
+              "RelativeDocumentMoniker": "CalculoMediaFinalTests\\CalcularMediaFinalTests.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Projeto Marcos\\ESWA01CalculadoraDeMedias\\ESWA01CalculadoraDeMedias\\CalculoMediaFinal\\CalculoMediaFinalTests\\CalcularMediaFinalTests.cs",
+              "RelativeToolTip": "CalculoMediaFinalTests\\CalcularMediaFinalTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-14T16:46:40.539Z",
               "EditorCaption": ""
@@ -45,7 +45,7 @@
               "RelativeDocumentMoniker": "CalculoMediaFinalTests\\CalculoMediaFinalTests.cs",
               "ToolTip": "C:\\Users\\Lucas\\Desktop\\Projeto Marcos\\ESWA01CalculadoraDeMedias\\ESWA01CalculadoraDeMedias\\CalculoMediaFinal\\CalculoMediaFinalTests\\CalculoMediaFinalTests.cs",
               "RelativeToolTip": "CalculoMediaFinalTests\\CalculoMediaFinalTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-14T16:46:09.354Z",
               "EditorCaption": ""

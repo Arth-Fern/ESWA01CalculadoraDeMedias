@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Lucas\\Desktop\\Projeto Marcos\\ESWA01CalculadoraDeMedias\\ESWA01CalculadoraDeMedias\\CalculoMediaSemestral\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C8EA69E2-16AB-D2BD-3450-B9AEC2B26987}|CalculoMediaSemestralTests\\CalculoMediaSemestralTests.csproj|c:\\users\\lucas\\desktop\\projeto marcos\\eswa01calculadorademedias\\eswa01calculadorademedias\\calculomediasemestral\\calculomediasemestraltests\\calcularmediatests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8EA69E2-16AB-D2BD-3450-B9AEC2B26987}|CalculoMediaSemestralTests\\CalculoMediaSemestralTests.csproj|solutionrelative:calculomediasemestraltests\\calcularmediatests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C8EA69E2-16AB-D2BD-3450-B9AEC2B26987}|CalculoMediaSemestralTests\\CalculoMediaSemestralTests.csproj|c:\\users\\lucas\\desktop\\projeto marcos\\eswa01calculadorademedias\\eswa01calculadorademedias\\calculomediasemestral\\calculomediasemestraltests\\calculomediasemestraltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8EA69E2-16AB-D2BD-3450-B9AEC2B26987}|CalculoMediaSemestralTests\\CalculoMediaSemestralTests.csproj|solutionrelative:calculomediasemestraltests\\calculomediasemestraltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8EA69E2-16AB-D2BD-3450-B9AEC2B26987}|CalculoMediaSemestralTests\\CalculoMediaSemestralTests.csproj|c:\\users\\lucas\\desktop\\projeto marcos\\eswa01calculadorademedias\\eswa01calculadorademedias\\calculomediasemestral\\calculomediasemestraltests\\calcularmediatests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8EA69E2-16AB-D2BD-3450-B9AEC2B26987}|CalculoMediaSemestralTests\\CalculoMediaSemestralTests.csproj|solutionrelative:calculomediasemestraltests\\calcularmediatests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,7 +26,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "CalcularMediaTests.cs",
               "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Projeto Marcos\\ESWA01CalculadoraDeMedias\\ESWA01CalculadoraDeMedias\\CalculoMediaSemestral\\CalculoMediaSemestralTests\\CalcularMediaTests.cs",
               "RelativeDocumentMoniker": "CalculoMediaSemestralTests\\CalcularMediaTests.cs",
@@ -34,12 +34,11 @@
               "RelativeToolTip": "CalculoMediaSemestralTests\\CalcularMediaTests.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-14T16:33:29.196Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-14T16:33:29.196Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "CalculoMediaSemestralTests.cs",
               "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Projeto Marcos\\ESWA01CalculadoraDeMedias\\ESWA01CalculadoraDeMedias\\CalculoMediaSemestral\\CalculoMediaSemestralTests\\CalculoMediaSemestralTests.cs",
               "RelativeDocumentMoniker": "CalculoMediaSemestralTests\\CalculoMediaSemestralTests.cs",
